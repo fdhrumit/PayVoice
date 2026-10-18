@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soundbox Body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M32,28 h44 c4.4,0 8,3.6 8,8 v38 c0,4.4 -3.6,8 -8,8 h-44 c-4.4,0 -8,-3.6 -8,-8 v-38 c0,-4.4 3.6,-8 8,-8 z" />
+    <!-- Speaker Grille Ring -->
+    <path
+        android:fillColor="#FFA663CC"
+        android:pathData="M54,44 m-12,0 a12,12 0 1,0 24,0 a12,12 0 1,0 -24,0" />
+    <path
+        android:fillColor="#FF6F2DBD"
+        android:pathData="M54,44 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,44 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <!-- Sound waves top right -->
+    <path
+        android:strokeColor="#FF248255"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M78,36 c4,4 4,12 0,16" />
+    <path
+        android:strokeColor="#FF248255"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M83,31 c7,7 7,22 0,26" />
+    <!-- Payment Green Badge at bottom of device -->
+    <path
+        android:fillColor="#FF248255"
+        android:pathData="M36,63 h36 c2.2,0 4,1.8 4,4 v8 c0,2.2 -1.8,4 -4,4 h-36 c-2.2,0 -4,-1.8 -4,-4 v-8 c0,-2.2 1.8,-4 4,-4 z" />
+    <!-- Rupee symbol in badge -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M51,67 h6 M51,70 h6 M51,67 v9 M53,70 c2,0 3,1 3,2 c0,1.2 -1,2 -3,2 l3.5,4 M51,73.5 h3" />
+</vector>

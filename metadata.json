@@ -1,0 +1,6 @@
+{
+  "name": "PayVoice",
+  "description": "Soundbox app for shop owners. Announces incoming bank and UPI payment credits out loud in English, Hindi, and Gujarati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
